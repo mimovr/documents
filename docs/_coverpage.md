@@ -2,11 +2,11 @@
 
 # MIMO Studio  <small>1.0.0</small>
 
-> 一款你可以信赖的编辑器
+> 一个提供虚实交互、多端互联、异构融合能力的平台
 
-- 轻量
-- 好看
-- 妙
+- 设计软件、VR、AR双向实时交互
+- 低代码，可视化
+- 工业模型复用
 
 [GitHub](https://github.com/mimovr/documents)
 [点我开始](#mimo-studio)
