@@ -1,1 +1,1 @@
-# 手册
+# MIMO Studio 手册
