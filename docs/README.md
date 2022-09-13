@@ -1,1 +1,2 @@
-# MIMO Studio 手册
+# MIMO Studio
+> 幻境制造
