@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# Mimo Studio  <small>1.0.0</small>
+# Mimo Studio  <small>2022.0.0</small>
 
 > 一个提供虚实交互、多端互联、异构融合能力的平台
 
