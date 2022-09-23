@@ -8,5 +8,5 @@
 - 低代码，可视化
 - 工业模型复用
 
-[//]: # ([GitHub]&#40;https://github.com/mimovr/documents&#41;)
-[点我开始](#mimo-studio)
+[编辑文档](https://github.com/mimovr/documents)
+[开始阅读](#mimo-studio)
